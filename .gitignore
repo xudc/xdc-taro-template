@@ -404,3 +404,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+.gitignore
+node_modules/
+.swc/
+.git/
+.vscode/
