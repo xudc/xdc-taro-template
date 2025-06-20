@@ -1,0 +1,15 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "xdc-taro-template",
+  "description": "xdc-taro-template",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
